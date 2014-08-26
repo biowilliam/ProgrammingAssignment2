@@ -16,7 +16,7 @@ m <- NULL
              setinverse = setinverse,
              getinverse = getinverse)
 }
-}
+
 
 
 ## Write a short comment describing this function
